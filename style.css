@@ -114,3 +114,118 @@ font-size: 13px;
     z-index: 2;
 }
 }
+.Menu {
+    width: 610px;
+    margin: 0 auto;
+    text-align: center;
+    }
+
+    .col-1 {
+      display: inline-block;
+      width: 25%;
+      height: 200px;
+      background-image: linear-gradient(rgba(248, 173, 108, 0.7),
+    rgba(228, 189, 105, 0.895)),
+      url("images/about.jpg");
+      background-size: cover;
+      background-position: center;
+
+    }
+    .col-1 h2{
+        padding:30px;
+    }
+    .col-1 p {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right:10px;
+    }
+    .col-2 {
+      display: inline-block;
+      width: 25%;
+      height: 200px;
+      background-image: linear-gradient(rgba(248, 173, 108, 0.7),
+    rgba(228, 189, 105, 0.895)),
+      url("images/product2-cake.png");
+      background-size: cover;
+      background-position: center;
+    }
+    .col-2 h2{
+        padding:30px;
+    }
+    .col-2 p {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right:10px;
+    }
+    .col-3 {
+      display: inline-block;
+      width: 25%;
+      height: 200px;
+      background-image: linear-gradient(rgba(248, 173, 108, 0.7),
+    rgba(228, 189, 105, 0.895)),
+      url("images/product1-croissant.png");
+      background-size: cover;
+      background-position: center;
+    }
+    .col-3 h2{
+        padding:20px;
+    }
+    .col-3 p {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right:10px;
+    }
+    .text-box2 h2
+    {
+    padding-top: 50px;
+    padding-right: 30px;
+    font-size: 40px;
+    font-family: 'Circular Std', sans-serif;
+}
+.text-box2 p
+{
+    padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+    font-size: 14px;
+    font-family: 'Circular Std', sans-serif;
+}
+.food {width: 610px;
+    margin: 0 auto;
+    text-align: center;
+}
+.gallery-container {
+    display: flex; 
+  }
+  
+  .gallery-column {
+    flex: 1; 
+    padding: 5px; 
+  }
+  
+  .gallery-column img {
+    width: 100%; 
+    height: auto; 
+  }
+  
+.contact {width: 610px;
+    margin: 0 auto;
+    text-align: center;}
+
+      
+      .contact-button {
+        text-align: center;
+        color: #000000;
+        border: 1 px solid white;
+        padding: 13 px, 34px;
+        font-size: 13 px; 
+        position: relative;
+      }
+      
+
+.footer { width: 610px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    text-align: center;}
+    
+   
